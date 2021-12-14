@@ -21,9 +21,11 @@ Implementations of ML and DL solution during my learning experience
 - [TensorFlow CNN for Intel Image Classification Task] (https://github.com/March-08/Machine-Learning-Journey/tree/main/TensorFlow%20CNN%20for%20Intel%20Image%20Classification%20Task)
  
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/2" alt="Recent Article 2"> 
-       
-- [Iterative Pruning Article using Julia](https://towardsdatascience.com/iterative-pruning-methods-for-artificial-neural-networks-in-julia-c605f547a485)
+      
+- [Iterative Pruning Article using Julia] (https://towardsdatascience.com/iterative-pruning-methods-for-artificial-neural-networks-in-julia-c605f547a485)
  
-      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/4" alt="Recent Article 4"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/4" alt="Recent Article 4"> 
+       
+
       
     
