@@ -12,5 +12,11 @@ Implementations of ML and DL solution during my learning experience
   
 ## Deep Learning
   
+  
 - [Transfer Learning for Robust Image Classification](https://github.com/March-08/Machine-Learning-Journey/tree/main/tensorflow-dogs-vs-cats)
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/1" alt="Recent Article 1"> 
+  
+    
+- [TensorFlow CNN for Intel Image Classification Task] ()
+     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/2" alt="Recent Article 2"> 
+    
