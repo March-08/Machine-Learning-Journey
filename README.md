@@ -8,3 +8,9 @@ Implementations of ML and DL solution during my learning experience
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/0" alt="Recent Article 0"> 
 
+
+  
+## Deep Learning
+  
+- [Transfer Learning for Robust Image Classification](https://github.com/March-08/Machine-Learning-Journey/tree/main/tensorflow-dogs-vs-cats)
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/1" alt="Recent Article 1"> 
