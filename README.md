@@ -24,6 +24,6 @@ Implementations of ML and DL solution during my learning experience
        
 - [Iterative Pruning Article using Julia](https://towardsdatascience.com/iterative-pruning-methods-for-artificial-neural-networks-in-julia-c605f547a485)
  
-       <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/3" alt="Recent Article 3"> 
+      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/4" alt="Recent Article 5"> 
       
     
