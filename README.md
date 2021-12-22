@@ -8,11 +8,11 @@ Implementations of ML and DL solution during my learning experience
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/0" alt="Recent Article 0"> 
 
-- [Solution to Titanic-Machine Learning from Disaster Kaggle's challenge](https://github.com/March-08/Machine-Learning-Journey/blob/main/Titanic/Titanic_Marcello_Politi.ipynb)
-  Kaggle challenge : https://www.kaggle.com/c/titanic/overview
-  In this code I developed a custom sklearn tranformer. 
-  I used a pipeline to preprocess the data. 
-  The model selection was run using both randomized_search and optuna.
+- [Solution to Titanic-Machine Learning from Disaster Kaggle's challenge](https://github.com/March-08/Machine-Learning-Journey/blob/main/Titanic/Titanic_Marcello_Politi.ipynb)  
+  Kaggle challenge : https://www.kaggle.com/c/titanic/overview  
+  In this code I developed a custom sklearn tranformer.   
+  I used a pipeline to preprocess the data.   
+  The model selection was run using both randomized_search and optuna.  
   
   
 ## Deep Learning
