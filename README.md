@@ -18,7 +18,8 @@ Implementations of ML and DL solution during my learning experience
   
 ## Deep Learning
  
-- [CNN for pneumonia classification from chest X Rays images.]https://github.com/March-08/Machine-Learning-Journey/tree/main/Pneumonia-Chest-X-Rays-Classifier/Pneumonia-Chest-X-Rays-Classifier-main)
+- [CNN for pneumonia classification from chest X Rays images](https://github.com/March-08/Machine-Learning-Journey/tree/main/Pneumonia-Chest-X-Rays-Classifier/Pneumonia-Chest-X-Rays-Classifier-main)
+     
     The dataset provided by Kaggle and available at https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images and 2 categories (Pneumonia/Normal). The Pneumonia folder contains images of two different categories virus and bacteria, so with the additional normal category we have 3 different classes. 
  
 - [Transfer Learning for Robust Image Classification](https://github.com/March-08/Machine-Learning-Journey/tree/main/tensorflow-dogs-vs-cats)
