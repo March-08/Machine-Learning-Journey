@@ -6,7 +6,7 @@ Implementations of ML and DL solution during my learning experience
 
 - [Linear Regression and GD from scratch with numpy](https://github.com/March-08/Machine-Learning-Journey/blob/main/multi_linear_regession.ipynb)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/1" alt="Recent Article 1"> 
 
 - [Solution to Titanic-Machine Learning from Disaster Kaggle's challenge](https://github.com/March-08/Machine-Learning-Journey/blob/main/Titanic/Titanic_Marcello_Politi.ipynb)  
     
@@ -24,16 +24,16 @@ Implementations of ML and DL solution during my learning experience
  
 - [Transfer Learning for Robust Image Classification](https://github.com/March-08/Machine-Learning-Journey/tree/main/tensorflow-dogs-vs-cats)
   
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/1" alt="Recent Article 1"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/2" alt="Recent Article 2"> 
   
     
 - [TensorFlow CNN for Intel Image Classification Task](https://github.com/March-08/Machine-Learning-Journey/tree/main/TensorFlow%20CNN%20for%20Intel%20Image%20Classification%20Task)
  
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/2" alt="Recent Article 2"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/3" alt="Recent Article 3"> 
       
 - [Iterative Pruning Article using Julia](https://towardsdatascience.com/iterative-pruning-methods-for-artificial-neural-networks-in-julia-c605f547a485)
  
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/4" alt="Recent Article 4"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/5" alt="Recent Article 5"> 
        
  - [Best System Award EVALITA 2020 : Stance Detection System](https://github.com/March-08/Machine-Learning-Journey/tree/main/Stance_Detection_Evalita2020/Stance_Detection-master)
          
@@ -43,3 +43,6 @@ Implementations of ML and DL solution during my learning experience
     The dataset will include short documents taken from Twitter.
     The evaluation will be performed according to the standard metrics known in literature (accuracy, precision, recall and F1-score)
 
+- [The remaking of the Silicon Valley’s series SeeFood App](https://medium.com/@marcellopoliti/the-remaking-of-the-silicon-valleys-series-seefood-app-d309068cae6d)
+ 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/0" alt="Recent Article 0"> 
