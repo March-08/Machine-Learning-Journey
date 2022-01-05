@@ -43,6 +43,6 @@ Implementations of ML and DL solution during my learning experience
     The dataset will include short documents taken from Twitter.
     The evaluation will be performed according to the standard metrics known in literature (accuracy, precision, recall and F1-score)
 
-- [The remaking of the Silicon Valley’s series SeeFood App](https://medium.com/@marcellopoliti/the-remaking-of-the-silicon-valleys-series-seefood-app-d309068cae6d)
+- [The remaking of the Silicon Valley’s series SeeFood App](https://github.com/March-08/Machine-Learning-Journey/tree/main/seeFood%20App)
  
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/0" alt="Recent Article 0"> 
