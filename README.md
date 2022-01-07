@@ -48,8 +48,8 @@ Implementations of ML and DL solution during my learning experience
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/0" alt="Recent Article 0"> 
 
  - [Flower Detector mobile app](https://github.com/March-08/Machine-Learning-Journey/tree/main/FlowerDetector)
-  
-    Development of CNN for flower detection in tensorflow. Implementation of flutter application using that tflite.
-    ![alt text](https://github.com/March-08/Machine-Learning-Journey/blob/main/FlowerDetector/flower_detector.jpeg){:height="50%" width="50%"}
+       
+     <img align="left" src="https://github.com/March-08/Machine-Learning-Journey/blob/main/FlowerDetector/flower_detector.jpeg" height="290">
+    Development of CNN for flower detection in tensorflow. Implementation of flutter application using that tflite. You can find the dataset [here](http://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz)
         
     
