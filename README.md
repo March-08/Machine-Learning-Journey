@@ -49,7 +49,7 @@ Implementations of ML and DL solution during my learning experience
 
  - [Flower Detector mobile app](https://github.com/March-08/Machine-Learning-Journey/tree/main/FlowerDetector)
   
-        Development of CNN for flower detection in tensorflow. Implementation of flutter application using that tflite.
-        
+    Development of CNN for flower detection in tensorflow. Implementation of flutter application using that tflite.
+    ![alt text](https://github.com/March-08/Machine-Learning-Journey/blob/main/FlowerDetector/flower_detector.jpeg | width=100)
         
     
