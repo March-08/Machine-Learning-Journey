@@ -50,6 +50,6 @@ Implementations of ML and DL solution during my learning experience
  - [Flower Detector mobile app](https://github.com/March-08/Machine-Learning-Journey/tree/main/FlowerDetector)
        
      <img align="left" src="https://github.com/March-08/Machine-Learning-Journey/blob/main/FlowerDetector/flower_detector.jpeg" height="290">
-    Development of CNN for flower detection in tensorflow. Implementation of flutter application using that tflite. You can find the dataset [here](http://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz)
+    Development of CNN for flower detection in Tensorflow. Implementation of flutter application using the exported network adopting the tflite package. You can find the dataset at the following link : https://www.tensorflow.org/datasets/catalog/tf_flowers). The user is able to take a picture or upload a picture from is gallery, and the app detects if the flowers is among these categories : daisy, dandelion, roses, sunflowers and tulips
         
     
