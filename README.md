@@ -46,3 +46,10 @@ Implementations of ML and DL solution during my learning experience
 - [The remaking of the Silicon Valley’s series SeeFood App](https://github.com/March-08/Machine-Learning-Journey/tree/main/seeFood%20App)
  
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/0" alt="Recent Article 0"> 
+
+ - [Flower Detector mobile app](https://github.com/March-08/Machine-Learning-Journey/tree/main/FlowerDetector)
+  
+        Development of CNN for flower detection in tensorflow. Implementation of flutter application using that tflite.
+        
+        
+    
