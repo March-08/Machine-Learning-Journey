@@ -1,5 +1,5 @@
 # Machine-Learning-Journey
-Implementations of ML and DL solution during my learning experience
+This repository contains projects in the field of machine learning and deep learning that I have developed and that I continue to develop on my path to becoming a professional data scientist. It includes links to the source codes that I have published as well as other related activities such as articles that I have published in journals like Towards Data Science and Geek Culture.
 
 
 ## Machine Learning
