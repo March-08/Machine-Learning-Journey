@@ -7,6 +7,17 @@ This repository contains projects in the field of machine learning and deep lear
 - [Linear Regression and GD from scratch with numpy](https://github.com/March-08/Machine-Learning-Journey/blob/main/multi_linear_regession.ipynb)
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcellopoliti/1" alt="Recent Article 1"> 
+  
+ - [Binary Classification using scikit-learn](https://github.com/March-08/Machine-Learning-Journey/blob/main/Binary_Classification.ipynb)
+     
+     I used the mnist dataset, modifying it slightly so that I could utilize a classifier that could recognize if a digit was "5" or "not 5".
+I evaluated the algorithms involved, random forest, SGD, and a dummy algorithm, using cross validation to be as accurate as possible.
+I noticed that in this case using the metric "accuracy" was not of much help, in fact even the dummy algorithm had a very high accuracy. This is because there are many more "not 5" images than "5" images.
+So I delved into metrics like Precision Recall and F1.
+I used these metrics to plot a PR curve comparing it also with various types of thresholds to understand which was the optimal point of the threshold to make classification.
+I also delved into the ROC curve and the AUC area.
+I used the mentioned ones to compare the various algorithms and understand that the best was the random forest.
+
 
 - [Solution to Titanic-Machine Learning from Disaster Kaggle's challenge](https://github.com/March-08/Machine-Learning-Journey/blob/main/Titanic/Titanic_Marcello_Politi.ipynb)  
     
