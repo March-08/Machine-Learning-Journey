@@ -38,8 +38,9 @@ Some instances may be sampled several times during bootstrapping, while others m
   **Stacking**: This is the last ensemble method. Instead of aggregating the predictors with trivial methods like majority voting, we train a model to perform the aggregation. Each tree predicts a certain value, and the final predictor called blender or meta-learner takes these predictions and output the final value.
   
   
-  
-
+- [Dimensionality Reduction](https://github.com/March-08/Machine-Learning-Journey/blob/main/Machine%20Learning/Dimensionality_Reduction.ipynb)
+   
+  Projection and Manifold Learning. PCA, Kernel PCA, Incremental PCA to speed up computation and for data visualization.
 
 - [Solution to Titanic-Machine Learning from Disaster Kaggle's challenge](https://github.com/March-08/Machine-Learning-Journey/blob/main/Machine%20Learning/Titanic/Titanic_Marcello_Politi.ipynb)  
     
