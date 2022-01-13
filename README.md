@@ -17,6 +17,28 @@ So I delved into metrics like Precision Recall and F1.
 I used these metrics to plot a PR curve comparing it also with various types of thresholds to understand which was the optimal point of the threshold to make classification.
 I also delved into the ROC curve and the AUC area.
 I used the mentioned ones to compare the various algorithms and understand that the best was the random forest.
+  
+- [Ensemble Learning: Bagging, Pasting, Boosting and Stacking](https://github.com/March-08/Machine-Learning-Journey/blob/main/Ensemble_Learning.ipynb)
+     
+     **Ensemble learning** : combine few good predictors (decision tree, svm, etc...) to get one more accurate one predctor.
+   
+  **Bagging and Pasting**:
+   
+    These approaches use the same training algorithm for every predictor, but train them on different subsets of the training set. When sampling is performed with replacement, the method is called bagging, pasting otherwise. Random Forest is a example of bagging using decision trees, one of the most powerful algorithm in ML. It can also be used for feature selection.
+   
+  **Out of bag evaluation**
+Some instances may be sampled several times during bootstrapping, while others may not be sampled at all, these are called out-of-bag instances.
+   
+  **Boosting** This is another ensemble solution. The most famous boost methods are AdaBoosting and Gradient Boost.
+   
+  **AdaBoost**: Each new predictor (model) in the esnemble should focus on correct the instances that its predecessor underfitted, weighting the missclassified instances. The boosting cannot be parallelized, because each predictor should wait for the previous one. In scikit learn the "SAMME" algorithm is used for multiclass labels AdaBoost. While "SAMME.R" relies on probabilities instead of predictions, usually performs better.
+   
+  **GradientBoost**: Similar to AdaBoosting but instead of working on the weights, each predictor tries to fit the residuals errors of the previous predictor.
+   
+  **Stacking**: This is the last ensemble method. Instead of aggregating the predictors with trivial methods like majority voting, we train a model to perform the aggregation. Each tree predicts a certain value, and the final predictor called blender or meta-learner takes these predictions and output the final value.
+  
+  
+  
 
 
 - [Solution to Titanic-Machine Learning from Disaster Kaggle's challenge](https://github.com/March-08/Machine-Learning-Journey/blob/main/Titanic/Titanic_Marcello_Politi.ipynb)  
