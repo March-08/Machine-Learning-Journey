@@ -65,6 +65,16 @@ Some instances may be sampled several times during bootstrapping, while others m
   
   
 ## Deep Learning
+ - [Introduction to Neural Networks with Tensorflow](https://github.com/March-08/Machine-Learning Journey/tree/main/Deep%20Learning/Introduction%20to%20Neural%20Networks%20with%20Tensorflow)
+     
+    The scripts in this directory are inspired by the book Hands-On Machine LEarning with Scikit-Learn, Keras & Tensorflow.
+ I read about the origin of deep learning and how it was inspired by biological neural networks, starting from [perceptron](https://en.wikipedia.org/wiki/Perceptron).
+As a first step, I saw how the [Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent) algorithm is heavily used in deep learning. I then learned what [automatic differentiation](https://www.tensorflow.org/guide/autodiff) is, which is the basis of backpropagation. I also saw how to derive functions using tensorflow's [Gradient Tape](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Introduction%20to%20Neural%20Networks%20with%20Tensorflow/GradientTape.ipynb), which records various operations and allows you to compute derivatives efficiently.
+I learned how neural networks can be applied to both classification and regression tasks.
+The implementation of such networks can be more or less difficult depending on the API used. The [sequential API](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Introduction%20to%20Neural%20Networks%20with%20Tensorflow/Regression_Classification_using_Sequential_API.ipynb) allows only a sequential implementation of the layers, so it loses generality but it is very simple. The [Functional API](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Introduction%20to%20Neural%20Networks%20with%20Tensorflow/Complex_Models_with_Functional_API.ipynb) instead allows to create more complex structures like [wide and deep model for reccomendation systems](https://arxiv.org/abs/1606.07792). The last method using the [subclassing API]() allows a total freedom in the architecture and functionality of the network, usually more used in research.
+I also learned useful utils like [saving and loading models, using callbacks and creating custom callbacks, and monitoring the training progress using the tensorboard](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Introduction%20to%20Neural%20Networks%20with%20Tensorflow/Saving_Callbacks_TensorBoard.ipynb).
+Finally as I have already done for ML algorithms in sklearn, I learned that it is possible to [wrap a deep learning model in a sklearn regressor](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Introduction%20to%20Neural%20Networks%20with%20Tensorflow/Fine_Tuninng_NN_Parameters.ipynb) and run a random-search or grid-search to make model selection.
+ 
  
 - [CNN for pneumonia classification from chest X Rays images](https://github.com/March-08/Machine-Learning-Journey/tree/main/Deep%20Learning/Pneumonia-Chest-X-Rays-Classifier/Pneumonia-Chest-X-Rays-Classifier-main)
      
