@@ -1,5 +1,19 @@
 # Machine-Learning-Journey
-This repository contains projects in the field of machine learning and deep learning that I have developed and that I continue to develop on my path to becoming a professional data scientist. It includes links to the source codes that I have published as well as other related activities such as articles that I have published in journals like Towards Data Science and Geek Culture.
+This repository contains projects in the field of machine learning and deep learning that I have developed and that I continue to develop on my path to becoming a professional ML engineer. It includes links to the source codes that I have published as well as other related activities such as articles that I have published in journals like [Towards Data Science](https://towardsdatascience.com/search?q=marcello%20politi) and [Geek Culture](https://medium.com/geekculture/tagged/tensorflow).
+My knowledge comes from work experiences like the internship at [INRIA](https://www.inria.fr/en/inria-centre-universite-cote-dazur) where for my thesis project I investigated [pruning methods](https://arxiv.org/pdf/2003.03033.pdf) for neural network compression in [Julia](https://julialang.org/). Moreover given my personal passion for these topics I have studied independently on several books such as : 
+- [Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow](https://www.amazon.it/Hands-Machine-Learning-Scikit-learn-Tensorflow/dp/1492032646) by Aurelien Geron,
+- [Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python](https://www.amazon.it/Practical-Statistics-Data-Scientists-Essential/dp/149207294X/ref=asc_df_149207294X/?tag=googshopit-21&linkCode=df0&hvadid=459278696633&hvpos=&hvnetw=g&hvrand=13953028916279784642&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1008736&hvtargid=pla-913779307193&psc=1) by Peter Gedeck
+- [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
+ 
+I also regularly consume machine learning related material such as the following youtube channels :
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- [Keen Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
+- [standford online](https://www.youtube.com/channel/UCBa5G_ESCn8Yd4vw5U-gIcg)
+- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
+- [MIT open course Ware](https://www.youtube.com/c/mitocw)
+ 
+Finally in my learning path I have to mention the most common platforms such as [Udemy](https://www.udemy.com/) where I enrolled a course for the implementation of deep learning algorithms on mobile devices called [Deep Learning Course with Flutter & Python](https://www.udemy.com/course/flutter-deeplearning-course/), and [coursera](https://www.coursera.org/) where I learned the basics from the courses of [Andrew NG](https://www.coursera.org/specializations/deep-learning) 
 
 
 ## Machine Learning
