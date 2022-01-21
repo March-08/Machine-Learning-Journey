@@ -65,7 +65,7 @@ Some instances may be sampled several times during bootstrapping, while others m
   
   
 ## Deep Learning
- - [Introduction to Neural Networks with Tensorflow]()
+ - [Introduction to Neural Networks with Tensorflow](https://github.com/March-08/Machine-Learning-Journey/tree/main/Deep%20Learning/Introduction%20to%20Neural%20Networks%20with%20Tensorflow)
      
     The scripts in this directory are inspired by the book Hands-On Machine LEarning with Scikit-Learn, Keras & Tensorflow.
  I read about the origin of deep learning and how it was inspired by biological neural networks, starting from [perceptron](https://en.wikipedia.org/wiki/Perceptron).
@@ -75,6 +75,16 @@ The implementation of such networks can be more or less difficult depending on t
 I also learned useful utils like [saving and loading models, using callbacks and creating custom callbacks, and monitoring the training progress using the tensorboard](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Introduction%20to%20Neural%20Networks%20with%20Tensorflow/Saving_Callbacks_TensorBoard.ipynb).
 Finally as I have already done for ML algorithms in sklearn, I learned that it is possible to [wrap a deep learning model in a sklearn regressor](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Introduction%20to%20Neural%20Networks%20with%20Tensorflow/Fine_Tuninng_NN_Parameters.ipynb) and run a random-search or grid-search to make model selection.
  
+- [Self Normalize Network](https://github.com/March-08/Machine-Learning-Journey/tree/main/Deep%20Learning/Introduction%20to%20Neural%20Networks%20with%20Tensorflow)
+     
+    In the paper https://arxiv.org/pdf/1706.02515.pdf, authors showed that a Forward NN with SELU activation functions in able of self normalizing (mean 0 , var 1 after each layer), so it can resolv the vanishing/exploding gradient problem (no need of batch normalization). However few conditions are needed:
+
+   - Inpute features must be standardized
+   - LeCun normal inizialization
+   - Sequential architecture
+   - All layers Dense
+ 
+ They also propose to use AplphaDroput in order to mantain same mean and variance after each dense layer
  
 - [CNN for pneumonia classification from chest X Rays images](https://github.com/March-08/Machine-Learning-Journey/tree/main/Deep%20Learning/Pneumonia-Chest-X-Rays-Classifier/Pneumonia-Chest-X-Rays-Classifier-main)
      
