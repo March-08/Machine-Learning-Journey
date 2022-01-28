@@ -15,6 +15,9 @@ I also regularly consume machine learning related material such as the following
  
 Finally in my learning path I have to mention the most common platforms such as [Udemy](https://www.udemy.com/) where I enrolled a course for the implementation of deep learning algorithms on mobile devices called [Deep Learning Course with Flutter & Python](https://www.udemy.com/course/flutter-deeplearning-course/), and [coursera](https://www.coursera.org/) where I learned the basics from the courses of [Andrew NG](https://www.coursera.org/specializations/deep-learning) 
 
+I also starte studying low level programming using cuda in order to boost deep learning performances, most of the framework such as TensorFlow and Pytorch are based on kernel lauches, check ouut my [**Cuda Programming Repo**](https://github.com/March-08/CUDA-programming).
+
+While in my [**A.I Art**](https://github.com/March-08/GANs-A.I-Art-) repository I have started publishing scripts about GANs that are able to generate art in terms of picture, audio, text etc...
 
 ## Machine Learning
 
