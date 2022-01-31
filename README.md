@@ -78,6 +78,11 @@ The implementation of such networks can be more or less difficult depending on t
 I also learned useful utils like [saving and loading models, using callbacks and creating custom callbacks, and monitoring the training progress using the tensorboard](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Introduction%20to%20Neural%20Networks%20with%20Tensorflow/Saving_Callbacks_TensorBoard.ipynb).
 Finally as I have already done for ML algorithms in sklearn, I learned that it is possible to [wrap a deep learning model in a sklearn regressor](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Introduction%20to%20Neural%20Networks%20with%20Tensorflow/Fine_Tuninng_NN_Parameters.ipynb) and run a random-search or grid-search to make model selection.
  
+- [Intro to Computer Vision](https://github.com/March-08/Machine-Learning-Journey/tree/main/Deep%20Learning/Intro%20to%20Computer%20Vision)
+     
+    How Convolution and Pooling layers works. How you can use these layers to extract features from pictures and reduce the size of it augmenti the depth (number of filters).
+ Here I started workin on computer vision using the **Fashion Mnist** dataset provided by the keras **APIs**.
+
 - [Self Normalize Network](https://github.com/March-08/Machine-Learning-Journey/tree/main/Deep%20Learning/Introduction%20to%20Neural%20Networks%20with%20Tensorflow)
      
     In the paper https://arxiv.org/pdf/1706.02515.pdf, authors showed that a Forward NN with SELU activation functions in able of self normalizing (mean 0 , var 1 after each layer), so it can resolv the vanishing/exploding gradient problem (no need of batch normalization). However few conditions are needed:
