@@ -82,6 +82,9 @@ Finally as I have already done for ML algorithms in sklearn, I learned that it i
      
     How Convolution and Pooling layers works. How you can use these layers to extract features from pictures and reduce the size of it augmenti the depth (number of filters).
  Here I started workin on computer vision using the **Fashion Mnist** dataset provided by the keras **APIs**.
+  
+   Training on a custom dataset using [ImageDataGenerator](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Intro%20to%20Computer%20Vision/Training_with_ImageDataGenerator.ipynb) and the most common flow_from_directory function. useful to preprocess the data, rescaling, crop the size etc..
+   The steps_per_epoch is an important factor during the training step, because a generator can potentially generate an infinite number of images.
 
 - [Self Normalize Network](https://github.com/March-08/Machine-Learning-Journey/tree/main/Deep%20Learning/Introduction%20to%20Neural%20Networks%20with%20Tensorflow)
      
