@@ -85,7 +85,9 @@ Finally as I have already done for ML algorithms in sklearn, I learned that it i
   
    Training on a custom dataset using [ImageDataGenerator](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Intro%20to%20Computer%20Vision/Training_with_ImageDataGenerator.ipynb) and the most common flow_from_directory function. useful to preprocess the data, rescaling, crop the size etc..
    The steps_per_epoch is an important factor during the training step, because a generator can potentially generate an infinite number of images.
-
+  
+  In the [Dogs vs Cats project](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Intro%20to%20Computer%20Vision/Dogs_vs_Cats.ipynb), I use the data augmentation approach, and analyzed the differences with a previous baseline. Keras allows to implement this powerful methodology using few lines of code.
+ 
 - [Self Normalize Network](https://github.com/March-08/Machine-Learning-Journey/tree/main/Deep%20Learning/Introduction%20to%20Neural%20Networks%20with%20Tensorflow)
      
     In the paper https://arxiv.org/pdf/1706.02515.pdf, authors showed that a Forward NN with SELU activation functions in able of self normalizing (mean 0 , var 1 after each layer), so it can resolv the vanishing/exploding gradient problem (no need of batch normalization). However few conditions are needed:
