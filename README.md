@@ -94,6 +94,8 @@ Finally as I have already done for ML algorithms in sklearn, I learned that it i
     
   I staterd [here](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Intro%20to%20Natural%20Language%20Processing/Tokenize%20words.ipynb) learning about the tokenizer of tensorflow , and how you can tokenize sentences and also add padding to match the size of a neural network.
     
+    [This project](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Intro%20to%20Natural%20Language%20Processing/Tokenize%20words.ipynbhttps://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Intro%20to%20Natural%20Language%20Processing/Tweet_Sentiment_Classification_using_Pre_Trained_Embedded.ipynb) is about classifying tweets based on their sentiment. I have used a transfer learning approach, using a pre-trained embedding provided by [Standford](https://nlp.stanford.edu/projects/glove/). I used RNN, in particular both LSTM and GRU to see their differences.
+
  
 - [Self Normalize Network](https://github.com/March-08/Machine-Learning-Journey/tree/main/Deep%20Learning/Introduction%20to%20Neural%20Networks%20with%20Tensorflow)
      
@@ -104,7 +106,7 @@ Finally as I have already done for ML algorithms in sklearn, I learned that it i
    - Sequential architecture
    - All layers Dense
  
- They also propose to use AplphaDroput in order to mantain same mean and variance after each dense layer
+   They also propose to use AplphaDroput in order to mantain same mean and variance after each dense layer
  
 - [CNN for pneumonia classification from chest X Rays images](https://github.com/March-08/Machine-Learning-Journey/tree/main/Deep%20Learning/Pneumonia-Chest-X-Rays-Classifier/Pneumonia-Chest-X-Rays-Classifier-main)
      
