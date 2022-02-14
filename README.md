@@ -86,6 +86,9 @@ Finally as I have already done for ML algorithms in sklearn, I learned that it i
    Training on a custom dataset using [ImageDataGenerator](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Intro%20to%20Computer%20Vision/Training_with_ImageDataGenerator.ipynb) and the most common flow_from_directory function. useful to preprocess the data, rescaling, crop the size etc..
    The steps_per_epoch is an important factor during the training step, because a generator can potentially generate an infinite number of images.
   
+ 
+   [Text Generation from Shakespeare Data]( https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Intro%20to%20Natural%20Language%20Processing/Text_Generation_from_Shakespeare_Data.ipynb)
+
    In [Mnist Sign Language project](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Intro%20to%20Computer%20Vision/Sign_Language_Classification.ipynb), I create a data generator starting from a csv file decoded by pandas. I split the train val using the stratify option of pandas to mantain the distribution, and I have applied data augmentation for a robust classifier
  
   In the [Dogs vs Cats project](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Intro%20to%20Computer%20Vision/Dogs_vs_Cats.ipynb), I use the data augmentation approach, and analyzed the differences with a previous baseline. Keras allows to implement this powerful methodology using few lines of code.
