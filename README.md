@@ -66,6 +66,10 @@ Some instances may be sampled several times during bootstrapping, while others m
   I used a pipeline to preprocess the data.   
   The model selection was run using both randomized_search and optuna.  
   
+
+- [Basic operations in PyTorch](https://github.com/March-08/Machine-Learning-Journey/blob/main/Machine%20Learning/Basic_of_PyTorch.ipynb)  
+    
+- [Linear and Logistic Regression in PyTorch](https://github.com/March-08/Machine-Learning-Journey/blob/main/Machine%20Learning/Basic_of_PyTorch.ipynb)  
   
 ## Deep Learning
  - [Introduction to Neural Networks with Tensorflow](https://github.com/March-08/Machine-Learning-Journey/tree/main/Deep%20Learning/Introduction%20to%20Neural%20Networks%20with%20Tensorflow)
