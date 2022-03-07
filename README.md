@@ -89,7 +89,8 @@ Finally as I have already done for ML algorithms in sklearn, I learned that it i
   
    Training on a custom dataset using [ImageDataGenerator](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Intro%20to%20Computer%20Vision/Training_with_ImageDataGenerator.ipynb) and the most common flow_from_directory function. useful to preprocess the data, rescaling, crop the size etc..
    The steps_per_epoch is an important factor during the training step, because a generator can potentially generate an infinite number of images.
-  
+   
+   [LeNet paper implementation for MNIST handwritten recognition](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Intro%20to%20Computer%20Vision/MNIST_in_Pytorch.ipynb)
  
    [Text Generation from Shakespeare Data]( https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Intro%20to%20Natural%20Language%20Processing/Text_Generation_from_Shakespeare_Data.ipynb)
 
