@@ -105,7 +105,7 @@ Finally as I have already done for ML algorithms in sklearn, I learned that it i
     [This project](https://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Intro%20to%20Natural%20Language%20Processing/Tokenize%20words.ipynbhttps://github.com/March-08/Machine-Learning-Journey/blob/main/Deep%20Learning/Intro%20to%20Natural%20Language%20Processing/Tweet_Sentiment_Classification_using_Pre_Trained_Embedded.ipynb) is about classifying tweets based on their sentiment. I have used a transfer learning approach, using a pre-trained embedding provided by [Standford](https://nlp.stanford.edu/projects/glove/). I used RNN, in particular both LSTM and GRU to see their differences.
 
  
-- [Self Normalize Network](https://github.com/March-08/Machine-Learning-Journey/tree/main/Deep%20Learning/Introduction%20to%20Neural%20Networks%20with%20Tensorflow)
+- [Self Normalize Network](https://github.com/March-08/Machine-Learning-Journey/tree/main/Deep%20Learning/Self%20Normilize%20Network)
      
     In the paper https://arxiv.org/pdf/1706.02515.pdf, authors showed that a Forward NN with SELU activation functions in able of self normalizing (mean 0 , var 1 after each layer), so it can resolv the vanishing/exploding gradient problem (no need of batch normalization). However few conditions are needed:
 
